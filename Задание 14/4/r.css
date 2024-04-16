@@ -1,0 +1,21 @@
+img{
+	width: 200px;
+	height: 200px;
+}
+.img1{
+	position: absolute;
+	left: 100px;
+	top: 150px;
+
+}
+.img2{
+	position: absolute;
+	left: 200px;
+	top: 250px;
+
+}
+.text{
+	position:absolute;
+	left:10px;
+	top:460px
+}

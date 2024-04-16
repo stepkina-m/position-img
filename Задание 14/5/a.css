@@ -1,0 +1,18 @@
+img{
+	width: 200px;
+	height: 200px;
+	border: 1px solid black;
+	float: left;
+}
+.img1{
+	position: absolute;
+	left: 200px;
+	top: 100px;
+	z-index:1;
+}
+.img2{
+	position: absolute;
+	left: 80px;
+	top: 70px;
+	z-index: 2;
+}
